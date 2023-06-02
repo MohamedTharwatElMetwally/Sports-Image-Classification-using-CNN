@@ -2,6 +2,8 @@
 
 ### Deep Learning Competition [FCIS ASU 2023]
 
+Competition Link: https://www.kaggle.com/competitions/nn23-sports-image-classification
+
 The full dataset can be found in this link: https://drive.google.com/file/d/1s07aL-7nvhO8ESJy_uTCZJMF5lw5LAGK/view?usp=share_link
 
 ### Description:
@@ -15,5 +17,5 @@ The dataset folder consists of two main subfolders:
 
 ### Experiments:
 
-- MobileNet v2: 0.92 test accuracy.
-- Inception ResNet v2: 0.94 test accuracy.
+- Inception ResNet v2: 0.949 test accuracy.
+- MobileNet v2: 0.927 test accuracy.
