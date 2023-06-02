@@ -12,3 +12,8 @@ The dataset contains 6 sports classes: Basketball, Football , Rowing, Swimming, 
 The dataset folder consists of two main subfolders:
 - Train: contains 1681 images. The label is in the image name. Image format is a mix between .png and .jpg
 - Test: 688 images without labels. All .jpg
+
+### Experiments:
+
+- MobileNet v2: 0.92 test accuracy.
+- Inception ResNet v2: 0.94 test accuracy.
